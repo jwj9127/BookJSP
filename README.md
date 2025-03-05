@@ -75,11 +75,11 @@
 
 - 책 상세보기
 
-<img src ="https://github.com/user-attachments/assets/f3c9cff8-8a9a-495d-921e-1e7814e79ee5" />
+<center><img src ="https://github.com/user-attachments/assets/f3c9cff8-8a9a-495d-921e-1e7814e79ee5" /></center>
 
 - 북클럽
 
-<img src ="https://github.com/user-attachments/assets/d0fd93d4-7437-4bdf-9089-d67ac3190e0a" />
+<center><img src ="https://github.com/user-attachments/assets/d0fd93d4-7437-4bdf-9089-d67ac3190e0a" /></center>
 
 ### 이하 페이지 생략
 ------
