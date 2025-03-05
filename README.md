@@ -71,7 +71,7 @@
 
 - 메인화면
 
-<img src ="https://github.com/user-attachments/assets/59c4b607-b3af-4b3c-8a2f-48c784e647f2" />
+<center><img src ="https://github.com/user-attachments/assets/59c4b607-b3af-4b3c-8a2f-48c784e647f2" /></center>
 
 - 책 상세보기
 
